@@ -1,5 +1,4 @@
-# vuex-crash-course
-
+# Vue-Vuex-App 
 ## Project setup
 ```
 npm install
